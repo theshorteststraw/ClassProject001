@@ -6,4 +6,9 @@ class Program
     {
         Console.WriteLine("Hello, World!");
     }
+
+    static void SayHello()
+    {
+        System.Console.WriteLine("Hello!");
+    }
 }
