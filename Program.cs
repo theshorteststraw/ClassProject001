@@ -11,4 +11,9 @@ class Program
     {
         System.Console.WriteLine("Hello!");
     }
+
+    static void SayBye()
+    {
+        System.Console.WriteLine("Bye!");
+    }
 }
